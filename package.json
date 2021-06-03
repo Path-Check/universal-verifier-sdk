@@ -1,0 +1,25 @@
+{
+  "name": "@pathcheck/universal-verifier-sdk",
+  "version": "0.0.1",
+  "description": "Verifiable QR SDK for all Verifiable QR codes",
+  "scripts": {
+    "test": "mocha",
+    "webpack": "webpack --config webpack.config.js"
+  },
+  "author": "Vitor Pamplona",
+  "license": "GPL-3.0-only",
+  "files": [
+    "lib/**/*.js"
+  ],
+  "main": "lib/index.js",
+  "module": "lib/main.js",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "@pathcheck/cred-sdk": "^0.0.4"
+  }
+}
