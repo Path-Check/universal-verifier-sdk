@@ -20,6 +20,7 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
+    "@pathcheck/bbs-jxt-sdk": "^0.1.6",
     "@pathcheck/cred-sdk": "^0.0.4"
   }
 }
