@@ -8,7 +8,7 @@ SDK to verify all Verifiable QR codes out there.
 - [x] [HC1](https://github.com/Path-Check/dcc-sdk.js): Europe's [Digital Covid Certificates](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) by the eHealth Network
 - [x] [SHC](https://github.com/Path-Check/shc-sdk.js): [SmartHealth Cards](https://smarthealth.cards/)
 - [x] [JXT](https://github.com/Path-Check/bbs-jxt-sdk.js): A BBS+ W3C Verifiable Credentials minimized with [JSON-XT](https://jsonxt.io/)
-- [x] [CBLD](https://github.com/Path-Check/bbs-cbor-sdk.js): A CBOR-LD version of W3C Verifiable Credentials. 
+- [x] [CBLD](https://github.com/Path-Check/bbs-cbld-sdk.js): A CBOR-LD version of W3C Verifiable Credentials. 
 - [x] [VDS](https://github.com/Path-Check/vds-sdk.js): ICAO's [Visible Digital Seals](https://www.icao.int/Security/FAL/TRIP/Documents/TR%20-%20Visible%20Digital%20Seals%20for%20Non-Electronic%20Documents%20V1.31.pdf)
 - [ ] Excelsior: [NYC's](https://covid19vaccine.health.ny.gov/excelsior-pass) COVID pass
 
