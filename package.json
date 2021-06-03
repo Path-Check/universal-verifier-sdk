@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@pathcheck/bbs-jxt-sdk": "^0.1.6",
-    "@pathcheck/cred-sdk": "^0.0.4"
+    "@pathcheck/cred-sdk": "^0.0.4",
+    "@pathcheck/divoc-sdk": "^0.0.4"
   }
 }
