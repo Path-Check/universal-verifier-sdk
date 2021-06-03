@@ -1,9 +1,9 @@
-# universal-verifier-sdk
+# Universal Verifier SDK for QRCode-based Verifiable Credentials
 SDK to verify all Verifiable QR codes out there. 
 
 ## Supported Platforms
 
-- [x] [CRED](https://github.com/Path-Check/cred-sdk.js): PathCheck's PaperCreds
+- [x] [CRED](https://github.com/Path-Check/cred-sdk.js): PathCheck's [PaperCreds](https://github.com/Path-Check/paper-cred)
 - [x] [DIVOC](https://github.com/Path-Check/divoc-sdk.js): [COWIN's](https://www.cowin.gov.in/) Credentials in India
 - [x] [HC1](https://github.com/Path-Check/dcc-sdk.js): Europe's [Digital Covid Certificates](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) by the eHealth Network
 - [x] [SHC](https://github.com/Path-Check/shc-sdk.js): [SmartHealth Cards](https://smarthealth.cards/)
