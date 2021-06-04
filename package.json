@@ -14,6 +14,7 @@
   "main": "lib/index.js",
   "module": "lib/main.js",
   "devDependencies": {
+    "base32url": "^0.0.3",
     "chai": "^4.3.4",
     "mocha": "^8.4.0",
     "webpack": "^4.44.1",
@@ -26,7 +27,6 @@
     "@pathcheck/dcc-sdk": "^0.0.9",
     "@pathcheck/divoc-sdk": "^0.0.5",
     "@pathcheck/shc-sdk": "^0.0.2",
-    "@pathcheck/vds-sdk": "^0.0.4",
-    "base32url": "^0.0.3"
+    "@pathcheck/vds-sdk": "^0.0.4"
   }
 }
