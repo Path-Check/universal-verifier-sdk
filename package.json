@@ -17,15 +17,15 @@
   "devDependencies": {
     "base32url": "^0.0.6",
     "chai": "^4.3.4",
-    "mocha": "^9.0.0",
-    "webpack": "^5.38.1",
+    "mocha": "^8.4.0",
+    "webpack": "^4.44.1",
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
     "@pathcheck/bbs-cbld-sdk": "^0.0.8",
     "@pathcheck/bbs-jxt-sdk": "^0.1.8",
     "@pathcheck/cred-sdk": "^0.0.6",
-    "@pathcheck/dcc-sdk": "^0.0.16",
+    "@pathcheck/dcc-sdk": "^0.0.17",
     "@pathcheck/divoc-sdk": "^0.1.0",
     "@pathcheck/eddsa-jxt-sdk": "^0.0.3",
     "@pathcheck/shc-sdk": "^0.0.3",
