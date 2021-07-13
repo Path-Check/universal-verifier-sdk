@@ -1,6 +1,6 @@
 {
   "name": "@pathcheck/universal-verifier-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Verifiable QR SDK for all Verifiable QR codes",
   "scripts": {
     "test": "mocha",
