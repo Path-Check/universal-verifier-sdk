@@ -24,12 +24,12 @@
   "dependencies": {
     "@pathcheck/bbs-cbld-sdk": "^0.0.8",
     "@pathcheck/bbs-jxt-sdk": "^0.1.8",
-    "@pathcheck/cred-sdk": "^0.0.6",
-    "@pathcheck/dcc-sdk": "^0.0.17",
-    "@pathcheck/divoc-sdk": "^0.1.0",
+    "@pathcheck/cred-sdk": "^0.0.7",
+    "@pathcheck/dcc-sdk": "^0.0.21",
+    "@pathcheck/divoc-sdk": "^0.1.5",
     "@pathcheck/eddsa-jxt-sdk": "^0.0.3",
     "@pathcheck/shc-sdk": "^0.0.3",
-    "@pathcheck/vds-sdk": "^0.0.4",
+    "@pathcheck/vds-sdk": "^0.0.6",
     "esm": "^3.2.25"
   }
 }
